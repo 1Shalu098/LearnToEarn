@@ -6,6 +6,8 @@ LearnToEarn
 LearnToEarn is a decentralized contest platform built on the Ethereum blockchain, where participants can submit their creative memes to compete for a prize pool. The platform allows users to create contests, submit their entries, and earn rewards based on their participation and success in the contests. The smart contract ensures transparency and fairness in the contest process, allowing users to engage in a fun and rewarding experience.
 
 ## Contract Address: 0x136A76C44C7293a2D2F5bC656b26f097848063b5
+![image](https://github.com/user-attachments/assets/f82c8925-4a2e-43ce-8872-7b74f9eac7f0)
+
 
 ## Project Vision
 The vision of LearnToEarn is to create an engaging and interactive platform that encourages creativity and community participation. By leveraging blockchain technology, we aim to provide a secure and transparent environment for users to showcase their talents, compete for rewards, and foster a sense of community among meme enthusiasts.
